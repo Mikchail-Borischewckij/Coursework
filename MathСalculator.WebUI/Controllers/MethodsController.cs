@@ -44,6 +44,14 @@ namespace MathСalculator.WebUI.Controllers
             return View();
         }
 
+
+        [HttpGet]
+        public ViewResult Presentation(string path)
+        {
+
+            ViewBag.Presentat = "http://player.myshared.ru/" + path + "/";
+            return View();
+        }
         public FileResult GetFile(string path)
         {
 
@@ -52,6 +60,21 @@ namespace MathСalculator.WebUI.Controllers
             return File(file_path, file_type, path);
         }
 
+        public FileResult GetFilePPT(string path)
+        {
+
+            string file_path = Server.MapPath("~/Content/files/" + path);
+            string file_type = "application/ppt";
+            return File(file_path, file_type, path);
+        }
+
+        public FileResult GetFilePDF(string path)
+        {
+
+            string file_path = Server.MapPath("~/Content/files/" + path);
+            string file_type = "application/pdf";
+            return File(file_path, file_type, path);
+        }
         public FileResult Download(string path)
         {
             string actualPath = Server.MapPath("~/Content/" + path);
@@ -131,7 +154,11 @@ namespace MathСalculator.WebUI.Controllers
         #endregion
 
 
-
+        [HttpGet]
+        public ViewResult Book()
+        {
+            return View();
+        }
 
 
         [HttpGet]

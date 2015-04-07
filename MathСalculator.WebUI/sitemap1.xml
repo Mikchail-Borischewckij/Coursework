@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>http://mathcalculator.azurewebsites.net/</loc>
+	<lastmod>2015-04-01T14:43:18+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://mathcalculator.azurewebsites.net/Methods/Gaus</loc>
+	<lastmod>2015-04-01T14:43:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://mathcalculator.azurewebsites.net/Iteration/Iteration</loc>
+	<lastmod>2015-04-01T14:43:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://mathcalculator.azurewebsites.net/Iteration/SimpleIteration</loc>
+	<lastmod>2015-04-01T14:43:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://mathcalculator.azurewebsites.net/Iteration/Chord</loc>
+	<lastmod>2015-04-01T14:43:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://mathcalculator.azurewebsites.net/Iteration/Newton</loc>
+	<lastmod>2015-04-01T14:43:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://mathcalculator.azurewebsites.net/Iteration/Secants</loc>
+	<lastmod>2015-04-01T14:43:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://mathcalculator.azurewebsites.net/NumericIntegral/NumericIntegr</loc>
+	<lastmod>2015-04-01T14:43:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://mathcalculator.azurewebsites.net/NumericIntegral/Rectangles</loc>
+	<lastmod>2015-04-01T14:43:26+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://mathcalculator.azurewebsites.net/NumericIntegral/Trapezoids</loc>
+	<lastmod>2015-04-01T14:43:27+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://mathcalculator.azurewebsites.net/NumericIntegral/Simpson</loc>
+	<lastmod>2015-04-01T14:43:28+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://mathcalculator.azurewebsites.net/NumericIntegral/Method38</loc>
+	<lastmod>2015-04-01T14:43:28+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://mathcalculator.azurewebsites.net/Methods/MathCalc</loc>
+	<lastmod>2015-04-01T14:43:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://mathcalculator.azurewebsites.net/Methods/Graph</loc>
+	<lastmod>2015-04-01T14:43:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://mathcalculator.azurewebsites.net/Methods/About</loc>
+	<lastmod>2015-04-01T14:43:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://mathcalculator.azurewebsites.net/Users/Login</loc>
+	<lastmod>2015-04-01T14:43:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://mathcalculator.azurewebsites.net/Users/Register</loc>
+	<lastmod>2015-04-01T14:43:33+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>

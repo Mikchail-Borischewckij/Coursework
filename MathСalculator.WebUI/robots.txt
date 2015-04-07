@@ -1,0 +1,6 @@
+User-agent: Yandex
+User-agent: StackRambler
+User-agent: Slurp
+Host: www.azurewebsites.net
+Sitemap: http://mathcalculator.azurewebsites.net//sitemap.xml
+Sitemap: http://mathcalculator.azurewebsites.net//sitemap1.xml

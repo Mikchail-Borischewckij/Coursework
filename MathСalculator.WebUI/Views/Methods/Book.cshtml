@@ -1,0 +1,64 @@
+﻿
+@{
+    ViewBag.Title = "Полезное";
+}
+
+
+<center>
+    <h3>Литература</h3>
+</center>
+ 1.@Html.ActionLink(" В.Ф. Савчук, О.В. Матысик Методы численного анализа        ", "GetFilePDF", new { path = "MChA.pdf" })
+<br />
+2.<a href="https://vk.com/doc7158357_59376905?hash=f555c057b2d9afdf21&dl=ebc29774dbd9692298">Вержбицкий, В. М. Основы численных методов </a>
+<br />
+3.<a href="http://static.my-shop.ru/product/pdf/88/873676.pdf">Вержбицкий, В. М. Численные методы 2-е издание </a>
+<br />
+
+<center>
+    <h3>Численное интегрирование</h3>
+    </center>
+    <div>
+
+        1.@Html.ActionLink(" Методы численного интегрирования        ", "GetFilePPT", new { path = "Integrirovanie1.ppt" })
+        <span class="glyphicon glyphicon-play-circle"></span> @Html.ActionLink("Смотреть онлайн", "Presentation", new { path = "616228" })
+        <br />
+        2.@Html.ActionLink(" Численное интегрирование        ", "GetFilePPT", new { path = "Integrirovanie2.ppt" })
+        <span class="glyphicon glyphicon-play-circle"></span> @Html.ActionLink("Смотреть онлайн", "Presentation", new { path = "431799" })
+        <br />
+        3.@Html.ActionLink(" Численное интегрирование и дифференцирование        ", "GetFilePPT", new { path = "Integrirovanie3.ppt" })
+        <span class="glyphicon glyphicon-play-circle"></span> @Html.ActionLink("Смотреть онлайн", "Presentation", new { path = "967066" })
+        <br />
+
+    </div>
+    <div>
+        <center>
+            <h3>Итерационные методы</h3>
+        </center>
+        1.@Html.ActionLink(" Численные методы решения уравнений        ", "GetFilePPT", new { path = "iter1.ppt" })
+        <span class="glyphicon glyphicon-play-circle"></span> @Html.ActionLink("Смотреть онлайн", "Presentation", new { path = "778256" })
+        <br />
+        2.@Html.ActionLink(" Численные методы       ", "GetFilePPT", new { path = "iter2.ppt" })
+        <span class="glyphicon glyphicon-play-circle"></span> @Html.ActionLink("Смотреть онлайн", "Presentation", new { path = "389632" })
+        <br />
+        3.@Html.ActionLink(" Метод Ньютона        ", "GetFilePPT", new { path = "iter3.ppt" })
+        <span class="glyphicon glyphicon-play-circle"></span> @Html.ActionLink("Смотреть онлайн", "Presentation", new { path = "96723" })
+        <br />
+
+    </div>
+
+<div>
+    <center>
+        <h3>Решение СЛАУ</h3>
+    </center>
+    1.<a href="http://www.mathprofi.ru/metod_gaussa_dlya_chainikov.html">Метод Гаусса для чайников  </a>
+    <br />
+    2.@Html.ActionLink(" Линейная алгебра     ", "GetFilePPT", new { path = "Gaus1.ppt" })
+    <span class="glyphicon glyphicon-play-circle"></span> @Html.ActionLink("Смотреть онлайн", "Presentation", new { path = "204343" })
+    <br />
+    3.@Html.ActionLink(" Системы линейных уравнений. Системы однородных уравнений        ", "GetFilePPT", new { path = "Gaus2.ppt" })
+    <span class="glyphicon glyphicon-play-circle"></span> @Html.ActionLink("Смотреть онлайн", "Presentation", new { path = "336826" })
+    <br />
+
+</div>
+
+
